@@ -1,0 +1,7 @@
+{
+  "extends": ["wesbos"]
+  // "no-shadow": [
+  //   "error",
+  //   { "builtinGlobals": false, "hoist": "functions", "allow": [] }
+  // ]
+}

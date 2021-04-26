@@ -1,0 +1,21 @@
+.card {
+  background-color: transparent;
+  border-color: #ff7700e3;
+}
+
+.card-title {
+  font-family: 'Orbitron';
+  color: #ff7700e3;
+}
+
+.card-info {
+  font-family: 'Orbitron';
+  color: #fff;
+}
+
+.rover-img {
+  max-width: 100%;
+  width: 500px !important;
+  margin: 0 auto;
+  padding: 3px;
+}

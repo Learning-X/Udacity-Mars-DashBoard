@@ -1,0 +1,9 @@
+.form-select {
+  width: 400px;
+  margin: 0 auto;
+  font-family: 'Orbitron';
+  border-color: #ff7700e3;
+  background-color: transparent;
+  color: #fff;
+  font-size: 20px;
+}
